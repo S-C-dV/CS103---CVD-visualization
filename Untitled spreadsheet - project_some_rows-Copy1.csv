@@ -1,0 +1,4 @@
+id,age,gender,height,weight,ap_hi,ap_lo,cholesterol,gluc,smoke,alco,active,cardio
+31,21413,1,157,69,130,80,1,1,0,0,1,0
+32,23046,1,158,90,145,85,2,2,0,1,1,1
+33,23376,2,156,45,110,60,1,1,1,0,1,0
